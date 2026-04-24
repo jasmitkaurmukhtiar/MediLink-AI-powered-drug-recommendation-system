@@ -1,0 +1,45 @@
+{
+  "I10": "Essential Hypertension",
+  "I11": "Hypertensive Heart Disease",
+  "I25": "Chronic Ischemic Heart Disease",
+  "I48": "Atrial Fibrillation / Flutter",
+  "I50": "Heart Failure",
+  "I21": "Acute Myocardial Infarction",
+  "I47": "Paroxysmal Tachycardia",
+
+  "E11": "Type 2 Diabetes Mellitus",
+  "E10": "Type 1 Diabetes Mellitus",
+  "E78": "Disorders of Lipoprotein Metabolism",
+  "E66": "Obesity",
+  "E87": "Electrolyte Imbalance",
+
+  "J44": "Chronic Obstructive Pulmonary Disease",
+  "J45": "Asthma",
+  "J96": "Respiratory Failure",
+  "J18": "Pneumonia",
+
+  "K21": "Gastro-esophageal Reflux Disease",
+  "K70": "Alcoholic Liver Disease",
+  "K72": "Hepatic Failure",
+  "K76": "Other Liver Diseases",
+
+  "N17": "Acute Kidney Failure",
+  "N18": "Chronic Kidney Disease",
+
+  "R07": "Chest Pain",
+  "R51": "Headache",
+  "R42": "Dizziness",
+  "R55": "Syncope",
+
+  "Z79": "Long-term Drug Therapy",
+  "Z95": "Presence of Cardiac Implant",
+
+  "A41": "Sepsis",
+  "B95": "Staphylococcus Infection",
+
+  "G47": "Sleep Disorders",
+  "G89": "Chronic Pain",
+
+  "F32": "Depressive Episode",
+  "F41": "Anxiety Disorder"
+}
