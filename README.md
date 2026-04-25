@@ -93,6 +93,12 @@ npm start
   * Hypertension
   * Diabetes
 
+## Contributors
+
+* Rexlin Nadar (ID: Rexlin29)
+* Jenica Kodankandath (ID: Theresenic)
+* Jasmitkaur Mukhtiar (ID: Jaskaurmukhtiar ) 
+* Tanvi Mhasal
 ---
 
 
